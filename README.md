@@ -2,7 +2,7 @@
 
 ### Overview
 
-For this project I wrote a simple webpage dealing with the Avengers Endgame Movie.
+For this project I wrote a simple HTML webpage dealing with the Avengers Endgame Movie.
 
 ### Topics
 * Taking user input
